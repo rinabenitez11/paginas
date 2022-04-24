@@ -1,0 +1,29 @@
+
+*{  
+    background-color: blanchedalmond;
+}
+
+h1{
+color: blueviolet;
+}
+
+
+.registrate{
+    background-color: blue;
+    color: white;
+    border-radius: 20%;
+    width: 20%; 
+    font-size: 40px;
+    
+}
+.ingresar{
+    background-color:#00ffea ;
+    color:white ;
+    border-radius: 20%;
+    width: 20%; 
+    font-size: 40px;
+    
+}
+img{
+    width: 100%;
+}

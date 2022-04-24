@@ -1,0 +1,18 @@
+h1{
+    color: crimson;
+    font-family: cursive;
+    background-color: black;
+}
+
+label{
+font-family: cursive;
+}
+input{
+    border-color: aquamarine ;
+    border: solid aquamarine 2px;
+}
+button{
+    background-color: aquamarine;
+}
+
+
